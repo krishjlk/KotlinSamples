@@ -92,3 +92,10 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 *.ser
+CodeSnippets/.idea/compiler.xml
+CodeSnippets/.idea/gradle.xml
+CodeSnippets/.idea/kotlinc.xml
+CodeSnippets/.idea/misc.xml
+CodeSnippets/.idea/vcs.xml
+CodeSnippets/gradlew
+CodeSnippets/gradlew.bat
